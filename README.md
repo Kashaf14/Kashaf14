@@ -18,6 +18,9 @@
   <a href="https://stackoverflow.com/users/10823587/ayesha-f" rel="nofollow">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="max-width: 100%;">
   </a>
+    <a href="https://medium.com/@kashafumar555" rel="nofollow">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white%22" style="max-width: 100%;">
+  </a>
 
 </p>
 
