@@ -48,6 +48,7 @@ In mobile apps, I can help you with iOS apps, Android apps, and hybrid apps.
 </p>
 <br>
 <!-- <h5>📊 This week I spent my time on:</h5> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashaf14)](https://github.com/Kashaf14/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
