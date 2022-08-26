@@ -47,12 +47,9 @@ In mobile apps, I can help you with iOS apps, Android apps, and hybrid apps.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashaf14&amp;exclude_repo=KNN-Image-Classification&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=8">
 </p>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <h5>📊 This week I spent my time on:</h5> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashaf14)](https://github.com/Kashaf14/github-readme-stats)
 
-<!--START_SECTION:waka-->
 
-text
-No activity tracked
 
 <!--END_SECTION:waka-->
