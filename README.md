@@ -15,7 +15,7 @@
   <a href="https://www.upwork.com/freelancers/~01e9ef990185aff348" rel="nofollow">
     <img src="https://img.shields.io/badge/Upwork-428813?style=for-the-badge&logo=upwork&logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://stackoverflow.com/users/10823587/ayesha-f" rel="nofollow">
+  <a href="https://stackoverflow.com/users/16892023/kashaf-umar" rel="nofollow">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="max-width: 100%;">
   </a>
     <a href="https://medium.com/@kashafumar555" rel="nofollow">
