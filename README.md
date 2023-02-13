@@ -49,7 +49,7 @@ In mobile apps, I can help you with iOS apps, Android apps, and hybrid apps.
 </p>
 <br>
 [![Kashaf14's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kashaf14)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kashaf14" />
+<img height="200em" width="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kashaf14" />
   
 <h5>📊 This week I spent my time on:</h5>
 <!--START_SECTION:waka-->
