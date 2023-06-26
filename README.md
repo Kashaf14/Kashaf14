@@ -3,7 +3,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<h1>I am a Angular, Ionic and React Native developer</h1>
+<h1>I am a Angular / Ionic developer</h1>
 
 <p dir="auto">
   <a href="https://www.linkedin.com/in/kashaf-expert-ionic-angular-developer/" rel="nofollow">
@@ -55,8 +55,7 @@ In mobile apps, I can help you with iOS apps, Android apps, and hybrid apps.
 <h5>📊 This week I spent my time on:</h5>
 <!--START_SECTION:waka-->
 
-text
-Angular, Ionic, Flutter
+Angular, Ionic, Capacitor, Cordova
 
 
 <!--END_SECTION:waka-->
