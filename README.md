@@ -33,7 +33,6 @@ In mobile apps, I can help you with iOS apps, Android apps, and hybrid apps.
 <h5>About me:</h5>
 <ul dir="auto">
   <li> 🔭 I’m looking to work on freelance projects</li>
-  <li> 🌱 I’m currently learning Rxjs and CI/CD</li>
   <li> 👯 I’m looking to collaborate more to open source projects</li>
   <li> 💬 Ask me about anything, I am happy to help.</li>
   <li> 📫 How to reach me: <a href="https://www.upwork.com/freelancers/~01e9ef990185aff348">Kashaf</a></li>
